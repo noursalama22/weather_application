@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": -0.1257,
+    "lat": 51.5085
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "غيوم متناثرة",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 295.18,
+    "feels_like": 294.61,
+    "temp_min": 293.15,
+    "temp_max": 297.04,
+    "pressure": 1014,
+    "humidity": 45
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.12,
+    "deg": 280
+  },
+  "clouds": {
+    "all": 60
+  },
+  "dt": 1689855885,
+  "sys": {
+    "type": 2,
+    "id": 2075535,
+    "country": "GB",
+    "sunrise": 1689825990,
+    "sunset": 1689883607
+  },
+  "timezone": 3600,
+  "id": 2643743,
+  "name": "لندن",
+  "cod": 200
+}
